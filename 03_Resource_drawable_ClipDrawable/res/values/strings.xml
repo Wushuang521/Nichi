@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">03_Resource_drawable_ClipDrawable</string>
+    <string name="title_main_activity">ClipDrawable</string>
+    <string name="content_description">To Be Clipped ImageView</string>
+
+
+</resources>
